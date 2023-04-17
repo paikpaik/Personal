@@ -1,6 +1,0 @@
-앱 암호
-sttuozfdtyegrczf
-클라이언트 ID
-211607181355-83amtvn2b59s8g3umc8q2g89cghmb113.apps.googleusercontent.com
-클라이언트 보안 비밀번호
-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
